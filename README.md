@@ -7,5 +7,9 @@ Projeto final da disciplina de "IA369-Y" da Unicamp.
 * Caluã Pataca
 * Talita Cypriano
 
-## Estrutura de Diretórios
+## Arquivos
+
+* [Classificador SVM](https://github.com/tpcyprianos/sentiment-analysis-tweets/blob/master/classificador.ipynb) - Pré-processamento dos dados
+* [Geração JSON > CSV](https://github.com/tpcyprianos/sentiment-analysis-tweets/blob/master/generateCSV.ipynb)
+
 
